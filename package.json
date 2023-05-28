@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "agentkeepalive": "^4.3.0",
+    "axios": "^1.4.0",
+    "child_process": "^1.0.2",
+    "colors": "^1.4.0",
+    "fake-useragent": "^1.0.1",
+    "he": "^1.2.0",
+    "randomstring": "^1.2.3",
+    "request": "^2.88.2",
+    "string-random": "^0.1.3"
+  }
+}
